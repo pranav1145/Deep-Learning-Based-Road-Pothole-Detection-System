@@ -35,8 +35,7 @@ The model is trained on a labeled dataset of road images and achieves reliable p
 The dataset is hosted on Google Drive because it exceeds GitHub's recommended file size limits.
 
 **Dataset Link**
-
-https://drive.google.com/drive/folders/1quOY5Y-uYGW_Xngqfb3Qhpdmmz8Z1W0w
+https://drive.google.com/drive/folders/1Y90KnlPOvthZvcPNPXed7hTJwSTyJvwd?usp=drive_link
 
 ### Dataset Structure
 
